@@ -3,7 +3,7 @@
   "allowScroll": false,
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 38,
+  "bottomRow": 31,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "chartData": {
     "xl203hr5to": {
@@ -111,7 +111,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 30,
   "showDataPointLabel": false,
-  "topRow": 6,
+  "topRow": 0,
   "type": "CHART_WIDGET",
   "version": 1,
   "widgetId": "7bgc85d785",
